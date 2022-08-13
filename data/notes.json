@@ -1,12 +1,8 @@
 {
   "notes": [
     {
-      "title": "New Note",
-      "text": "New Note"
-    },
-    {
-      "title": "Finish Delete Function",
-      "text": "Delete"
+      "title": "Hello World",
+      "text": "Hello"
     }
   ]
 }
